@@ -61,10 +61,10 @@ So join the Speak App revolution, and discover a world where every voice is hear
                 <div><i class="fas fa-circle"></i>&nbsp;FSL</div>
                 <div><i class="fas fa-circle"></i>&nbsp;SIGN LANGUAGE</div>
             </div>
-            <a href="SpeakAppTechGents.apk" download>
+            <a href="SpeakApp.apk" download>
             <button class="btn_one">Download</button>
             </a>
-            <a href="SpeakAppTechGents.apk" download>
+            <a href="SpeakApp.apk" download>
             <button class="btn_two">Download (mirror #1)</button>
             </a>
         </section>
